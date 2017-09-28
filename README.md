@@ -1,4 +1,4 @@
-# This is out first repo
+# This is our first repo
 
 ### Git is very useful for version contorol and collaboration
 
